@@ -1,8 +1,4 @@
-log
 tmp
-db/*.sqlite3
-bin
-.rbx
 .DS_Store
 *~
 *#
